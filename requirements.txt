@@ -1,0 +1,5 @@
+# HackZen 2.0 - Day 3 Computer Vision Track
+# Project: AI-Based Real-Time Face Detection and Counting System
+
+opencv-python>=4.8.0,<5.0.0
+numpy>=1.24.0
